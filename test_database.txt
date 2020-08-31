@@ -1,0 +1,25 @@
+horror	Gonosz halott	150	2013
+akcio	Die Hard 2	90	2006
+csaladi	Kutyak a kertvarosban	130	2012	12
+akcio	A vonat	165	2000
+vigjatek	Jim	90	2012
+scifi	UFO	135	2001
+akcio	Hasonmasok	78	2009
+romantikus vigjatek	Szerelmunk lapjai	240	1999
+dokumentum	A vonat	60	2002	A vilag leghosszabb vonata
+akcio	Itt jartunk	120	2004
+nemafilm	Chaplin	30	1994
+csaladi	Lessie	90	2009	12
+akcio	Zsaruk	160	2017
+eletrajzi drama	Detroit	70	2003
+horror	Elve vagy halva	190	2009
+tortenelmi film	Holokauszt	60	2011
+rajzfilm	Micimacko	90	2005
+akcio	Rambo	120	2000
+csaladi	Alomhajo	70	2004	12
+akcio	Bolsevik kemek	90	2007
+horror	Szornyszulott	162	2005
+csaladi	Vilagitotorony	90	2003	16
+vigjatek	Labdafej	60	2019
+dokumentum	Romania	150	2008	Elet Romaniaban magyar szemmel
+horror	Vegzetes kivansag	150	2020
