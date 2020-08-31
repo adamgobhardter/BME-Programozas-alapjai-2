@@ -31,7 +31,7 @@ ________________________________________________________________________________
 
 MEGJEGYZÉSEK:
 
-    • g++ Documentary.hpp FamilyMovie.hpp gtest_lite.h Lista.hpp Lista.cpp main.cpp  memtrace.cpp memtrace.h Movie.hpp test.cpp test.hpp
+    • g++ Documentary.hpp FamilyMovie.hpp gtest_lite.h Lista.hpp Lista.cpp main.cpp memtrace.cpp memtrace.h Movie.hpp test.cpp test.hpp
     • A memóriaszivárgás lehetőségét a Memtrace nevű eszköz végzi, mely nem készít naplót csak hiba esetén. Működéséhez Linux alatt szükséges a -DMEMTRACE flag.
     • A program megfelelő működéséhez szükséges egy film_database.txt fájl, amit a project mappában kell elhelyezni a forrásfájlok mellé.
 
